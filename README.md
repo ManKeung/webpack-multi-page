@@ -1,4 +1,4 @@
-# webpack-single-page
+# webpack-multi-page
 
 webpack 多页面开发
 
